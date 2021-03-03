@@ -1,3 +1,3 @@
 # my-data-structure
 ## Profile
-this is a code depository of my practice learning data structure
+this is a code depository of my data structure class.
